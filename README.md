@@ -97,8 +97,4 @@ Conclusion
 
 This project provides insights into unemployment patterns across India. Through data visualization and statistical analysis, it helps identify regions with higher unemployment rates and understand employment trends over time.
 
-Author
-
-Rithiga
-
 Data Analysis Project using Python, Pandas, Matplotlib, and Seaborn.
